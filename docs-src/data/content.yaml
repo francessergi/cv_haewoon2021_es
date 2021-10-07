@@ -59,18 +59,17 @@ Experience:
           - 발주업무, 물류업무 
           - CS 고객 관리          
         Badges: ['CS관리', '유통업', '쇼핑몰']
-  - Employer: (주)콤비코리아
-    Place: Seoul, KO
-    Positions:
-      - Title: 사원
-        Date: Nov 2010 - May 2011
-        Details:
-          - 영업지원, 전표관리
-          - 발주업무, 물류지원
-          - CS관리
-          - 마감 회계업무
-        Badges: ['CS관리', '유통업', '영업지원']
-
+  # - Employer: (주)콤비코리아
+  #   Place: Seoul, KO
+  #   Positions:
+  #     - Title: 사원
+  #       Date: Nov 2010 - May 2011
+  #       Details:
+  #         - 영업지원, 전표관리
+  #         - 발주업무, 물류지원
+  #         - CS관리
+  #         - 마감 회계업무
+  #       Badges: ['CS관리', '유통업', '영업지원']
 Education:
   - Course: 관광과
     Place: 경성여자실업고등학교(서울)
