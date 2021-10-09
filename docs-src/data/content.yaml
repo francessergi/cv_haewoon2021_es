@@ -12,7 +12,7 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: Palma de Mallorca
 
-Profile: ¡Hola! Soy Haewoon. Tengo muchas experencias en España
+Profile: ¡Hola! Soy Haewoon. Nací en Corea del Sur y vine a vivir a España hace unos años. En el turismo y la administración se encuentran mis puntos fuertes, además soy una persona muy comprometida y resolutiva a la hora de resolver problemas. Mi objetivo principal es encontrar un trabajo que me de estabilidad y me permita poder seguir aprendiendo español.
 
 Experience:
   - Employer: Free lance
@@ -65,17 +65,17 @@ Experience:
           - Negocio logístico
           - Gestión de clientes    
         Badges: ['Gestión de clientes', 'Distribución', 'Centro comercial de internet']
-  # - Employer: (주)콤비코리아
-  #   Place: Seoul, KO
-  #   Positions:
-  #     - Title: 사원
-  #       Date: Nov 2010 - May 2011
-  #       Details:
-  #         - 영업지원, 전표관리
-  #         - 발주업무, 물류지원
-  #         - CS관리
-  #         - 마감 회계업무
-  #       Badges: ['CS관리', '유통업', '영업지원']
+  - Employer: (주)콤비코리아
+    Place: Seoul, KO
+    Positions:
+      - Title: 사원
+        Date: Nov 2010 - May 2011
+        Details:
+          - 영업지원, 전표관리
+          - 발주업무, 물류지원
+          - CS관리
+          - 마감 회계업무
+        Badges: ['CS관리', '유통업', '영업지원']
 Education:
   # - Course: Turismo
   #   Place: HONGIK Design high school (Seoul)
